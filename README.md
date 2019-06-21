@@ -18,6 +18,8 @@ Please, feel free to make any contributions you feel will make it better.
 - [Why use it?](#why-use-it)
 - [How to use it](#how-to-use-it)
 - [Follow me](#follow-me)
+- [About Video Resources](#about-video-resources)
+- [Prerequisite Knowledge](#prerequisite-knowledge)
 
 ---
 
@@ -44,3 +46,20 @@ Since I am still an undergrad student I have plenty of free time (Nervously swea
 I'm on the journey.
 
 - Medium: [@ericpqmor](https://medium.com/@ericpqmor)
+
+## About Video Resources
+
+Some videos are available only by enrolling in a Coursera, Udemy or EdX class. It is free to do so, but sometimes the classes
+are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
+from public sources and replacing the online course videos over time. I like using university lectures.
+
+## Prerequisite Knowledge
+
+This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
+
+- [ ] [Why should I learn hacking?](https://www.quora.com/Why-should-I-learn-hacking)
+- [ ] [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+- [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
+- [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
+- [ ] [Skills Required to Become a Ethical Hacker](https://www.guru99.com/skills-required-become-ethical-hacker.html)
+
