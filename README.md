@@ -83,6 +83,35 @@ For now, as I said before, my plan is to read about some new vulnerability and t
 - [ ] [Character Set](https://youtu.be/MijmeoH9LT4)
 - [ ] [Data Structures](https://youtu.be/cOfhwxirhUE)
 - [ ] [Metadata](https://youtu.be/-0vc6LeVa14)
-- [ ] [Operating Systems](https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
 
+## Operating Systems
+- [ ] [Complete Playlist: UMass Amherst](https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
+- [ ] [Introduction and Overview](https://youtu.be/5AjReRMoG3Y)
+- [ ] [Operating Systems Basics](https://youtu.be/9GDX-IyZ_C8)
+- [ ] [What is a Kernel](https://youtu.be/7HatJ1t-iQQ)
+- [ ] [File System: Linux Edition](https://youtu.be/9dS6zadm33U)
+- [ ] [File System: Windows Edition](https://youtu.be/nqSean8OiZE)
 
+## Networking
+- [ ] [Introduction to Networking](https://youtu.be/N4J5ASp9Z8U)
+- [ ] [OSI Model](https://youtu.be/lSK1d8fZyEw)
+- [ ] [HTTPS](https://youtu.be/earzZpX-PiY)
+- [ ] [Cookies](https://youtu.be/I01XMRo2ESg)
+- [ ] [DNS Explained](https://youtu.be/72snZctFFtA)
+
+## Cryptography
+- [ ] [Introduction and Overview: Part 1](https://youtu.be/KcqOeDwIuBQ)
+- [ ] [Introduction and Overview: Part 2](https://youtu.be/bXXiNH7tDwE)
+- [ ] [Introduction and Overview: Part 3](https://youtu.be/X5oBlffSWs8)
+- [ ] [Symmetric Encryption](https://youtu.be/NHz_Bb86pxg)
+- [ ] [Basic Cryptanalysis and Block Ciphers](https://youtu.be/qWMxsstL9ag)
+- [ ] [Asymmetric Encryption](https://youtu.be/hOjk-NaYK_w)
+- [ ] [Authentication and Key Management](https://youtu.be/NOm2fs4rknQ)
+
+## Web Exploitation
+- [ ] [XSS - Cross Side Scripting](https://youtu.be/DkjvXrxdImk)
+- [ ] [SQL Injection](https://youtu.be/z5Qlnm_4j2g)
+- [ ] [Cross Site Request Forgery](https://youtu.be/vRBihr41JTo)
+- [ ] [Cookie Exploit](https://youtu.be/Nv6CPs_j7hc)
+- [ ] [DNS Exploit](https://youtu.be/leTiP1s6RCk)
+- [ ] [Server-Side Template Injection](https://portswigger.net/blog/server-side-template-injection)
