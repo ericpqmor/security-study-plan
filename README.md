@@ -62,4 +62,27 @@ This short section were prerequisites/interesting info I wanted to learn before 
 - [ ] [Don’t Break The Chain](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret)
 - [ ] [How to learn on your own](https://metacademy.org/roadmaps/rgrosse/learn_on_your_own)
 - [ ] [Skills Required to Become a Ethical Hacker](https://www.guru99.com/skills-required-become-ethical-hacker.html)
+- [ ] [Stop wasting your time and learn more hacking](https://www.youtube.com/watch?v=AMMOErxtahk&feature=youtu.be)
+
+## The Daily Plan
+
+For now, as I said before, my plan is to read about some new vulnerability and try a CTF challenge or study a theoretical notion about computer security everyday (Or at least watch a Mister Robot episode).
+
+## Motivation
+- [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+
+## Cyber Security Overview
+- [ ] [Introduction to Cyber Security](https://www.youtube.com/watch?v=RRUfHVwKbgg)
+- [ ] [The Importance of Cyber Security](https://www.youtube.com/watch?v=YC1rMqAJygs)
+- [ ] [Cyber Ethics and Legal Issues: Part 1](https://www.youtube.com/watch?v=aFbiXEKwLgo)
+- [ ] [Cyber Ethics and Legal Issues: Part 2](https://www.youtube.com/watch?v=qDtGQyc2IWg)
+
+## Computer Basics
+- [ ] [Binary and Hexadecimal](https://www.youtube.com/watch?v=_oaBT-TndCs)
+- [ ] [File Formats](https://www.youtube.com/watch?v=wUE8zVvvqkg)
+- [ ] [Character Set](https://youtu.be/MijmeoH9LT4)
+- [ ] [Data Structures](https://youtu.be/cOfhwxirhUE)
+- [ ] [Metadata](https://youtu.be/-0vc6LeVa14)
+- [ ] [Operating Systems](https://www.youtube.com/watch?v=dv4mXBsv6TI&list=PLacuG5pysFbDQU8kKxbUh4K5c1iL5_k7k)
+
 
