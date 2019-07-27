@@ -20,6 +20,10 @@ Please, feel free to make any contributions you feel will make it better.
 - [Follow me](#follow-me)
 - [About Video Resources](#about-video-resources)
 - [Prerequisite Knowledge](#prerequisite-knowledge)
+- [The Daily Plan](#the-daily-plan)
+- [Motivation](#motivation)
+- [Cyber Security Overview](#cyber-security-overview)
+- [Computer Basics](#computer-basics)
 
 ---
 
@@ -115,3 +119,11 @@ For now, as I said before, my plan is to read about some new vulnerability and t
 - [ ] [Cookie Exploit](https://youtu.be/Nv6CPs_j7hc)
 - [ ] [DNS Exploit](https://youtu.be/leTiP1s6RCk)
 - [ ] [Server-Side Template Injection](https://portswigger.net/blog/server-side-template-injection)
+
+## MOOC
+- [ ] [(ISC)² Systems Security Certified Practitioner (SSCP)](https://www.coursera.org/specializations/sscp-training)
+- [ ] [Introduction to Cyber Security](https://www.coursera.org/specializations/intro-cyber-security)
+
+## Conferences
+- USENIX Workshop on Offensive Technologies ([WOOT](https://www.usenix.org/conference/woot19))
+- Symposium on Usable Privacy and Security ([SOUPS](https://www.usenix.org/conference/soups2019)) 
