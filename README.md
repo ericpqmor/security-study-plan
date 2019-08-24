@@ -123,6 +123,8 @@ For now, as I said before, my plan is to read about some new vulnerability and t
 ## MOOC
 - [ ] [(ISC)² Systems Security Certified Practitioner (SSCP)](https://www.coursera.org/specializations/sscp-training)
 - [ ] [Introduction to Cyber Security](https://www.coursera.org/specializations/intro-cyber-security)
+- [ ] [Introductiton to Applied Cryptography](https://www.coursera.org/specializations/introduction-applied-cryptography)
+- [ ] [Applied Cryptography](https://www.coursera.org/specializations/applied-crypto)
 
 ## Conferences
 - USENIX Workshop on Offensive Technologies ([WOOT](https://www.usenix.org/conference/woot19))
