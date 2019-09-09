@@ -74,6 +74,7 @@ For now, as I said before, my plan is to read about some new vulnerability and t
 
 ## Motivation
 - [ ] [Dream](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [ ] [Hacking Competition World Finals in China](https://www.youtube.com/watch?v=2S_TXaGYD8E)
 
 ## Cyber Security Overview
 - [ ] [Introduction to Cyber Security](https://www.youtube.com/watch?v=RRUfHVwKbgg)
