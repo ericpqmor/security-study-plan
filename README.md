@@ -130,4 +130,5 @@ For now, as I said before, my plan is to read about some new vulnerability and t
 
 ## Conferences
 - USENIX Workshop on Offensive Technologies ([WOOT](https://www.usenix.org/conference/woot19))
-- Symposium on Usable Privacy and Security ([SOUPS](https://www.usenix.org/conference/soups2019)) 
+- Symposium on Usable Privacy and Security ([SOUPS](https://www.usenix.org/conference/soups2019))
+- Defense Convention ([DEFCON](https://www.defcon.org/))
