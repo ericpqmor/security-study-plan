@@ -111,7 +111,7 @@ For now, as I said before, my plan is to read about some new vulnerability and t
 - [ ] [Basic Cryptanalysis and Block Ciphers](https://youtu.be/qWMxsstL9ag)
 - [ ] [Asymmetric Encryption](https://youtu.be/hOjk-NaYK_w)
 - [ ] [Authentication and Key Management](https://youtu.be/NOm2fs4rknQ)
-- [ ] [Primality Testing and Attacks on RSA] (https://personal.utdallas.edu/~muratk/courses/crypto07_files/rsa-attacks.pdf)
+- [ ] [Primality Testing and Attacks on RSA](https://personal.utdallas.edu/~muratk/courses/crypto07_files/rsa-attacks.pdf)
 
 ## Web Exploitation
 - [ ] [XSS - Cross Side Scripting](https://youtu.be/DkjvXrxdImk)
